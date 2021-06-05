@@ -3,6 +3,12 @@
 
 Recorded lectures and tutorials, slides and program code from the very first Nordic Probabilistic AI School ([ProbAI 2019](https://2019.probabilistic.ai)).
 
+## Marcus' Conda Environment
+I created a conda environment to ease the installations. Create the environment from the environment.yml file:
+```
+conda env create -f environment.yml
+```
+
 ## Lectures and Tutorials
 
 * Day 1 (June 3):
